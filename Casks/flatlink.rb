@@ -12,7 +12,7 @@ cask "flatlink" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   # A prebuilt, notarized binary: a cask, not a formula, so installing it never
   # requires up-to-date Command Line Tools.
