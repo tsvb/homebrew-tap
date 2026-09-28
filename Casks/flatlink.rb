@@ -1,6 +1,6 @@
 cask "flatlink" do
-  version "1.1.0"
-  sha256 "cea507fb1d75e00bd76c8e3eba5a95c933cace2fb91d0ebffe0cee67e7aee9be"
+  version "1.1.1"
+  sha256 "1491808a73f2aa3dbeb9c30a875424472131c147db49f3db9cfe8d3676e2a595"
 
   url "https://github.com/tsvb/flatlink/releases/download/v#{version}/flatlink-#{version}-macos.zip"
   name "flatlink"
