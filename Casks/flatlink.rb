@@ -5,7 +5,7 @@ cask "flatlink" do
   url "https://github.com/tsvb/flatlink/releases/download/v#{version}/flatlink-#{version}-macos.zip"
   name "flatlink"
   desc "Flat folder of symlinks that shows a whole photo tree in DxO PhotoLab"
-  homepage "https://github.com/tsvb/flatlink"
+  homepage "https://timvanbenschoten.com/code/flatlink"
 
   livecheck do
     url :url
