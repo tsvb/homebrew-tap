@@ -5,7 +5,7 @@ cask "flatlink-app" do
   url "https://github.com/tsvb/flatlink/releases/download/v#{version}/flatlink-app-#{version}-macos.zip"
   name "Flatlink"
   desc "Keeps a flat folder of photo links up to date for DxO PhotoLab"
-  homepage "https://github.com/tsvb/flatlink"
+  homepage "https://timvanbenschoten.com/code/flatlink"
 
   livecheck do
     url :url
